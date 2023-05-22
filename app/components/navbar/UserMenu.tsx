@@ -29,6 +29,9 @@ const UserMenu = () => {
           onClick={() => {}}
         >
           <AiOutlineMenu />
+          <div className='hidden md:block'>
+            <Avatar />
+          </div>
         </div>
       </div>
     </div>
