@@ -50,6 +50,7 @@ const RegisterModal= () => {
     })
     .catch((error) => {
       toast.error('error');
+      console.log(error);
     })
     .finally(() => {
       setIsLoading(false);
