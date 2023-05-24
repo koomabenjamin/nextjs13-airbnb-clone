@@ -146,4 +146,4 @@ const RegisterModal= () => {
   );
 }
 
-export default RegisterModal;
+export default RegisterModal; 
