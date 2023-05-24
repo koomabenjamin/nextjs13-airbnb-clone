@@ -46,11 +46,10 @@ const RegisterModal= () => {
     .then(() => {
       toast.success('Registered!');
       registerModal.onClose();
-      // loginModal.onOpen();
+      loginModal.onOpen();
     })
     .catch((error) => {
-      toast.error('error');
-      console.log(error);
+      toast.error(error);
     })
     .finally(() => {
       setIsLoading(false);
@@ -147,4 +146,4 @@ const RegisterModal= () => {
   );
 }
 
-export default RegisterModal; 
+export default RegisterModal;
