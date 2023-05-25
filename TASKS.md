@@ -3,24 +3,24 @@
 2hrs section on tutorial from 2:58hrs - 5:23hr mark
 
 components to be worked on
-- CategoryBox.tsx
-- Categories.tsx [search parameters]
-- logo.tsx
-- loginmodal.tsx
-- registermodal.tsx
-- usermenu.tsx [rent function]
-- useRentModal
+- CategoryBox.tsx ✅
+- Categories.tsx [search parameters] ✅
+- logo.tsx ✅
+- loginmodal.tsx ✅
+- registermodal.tsx ✅
+- usermenu.tsx [rent function] ✅
+- useRentModal ✅
 - rentmodal
 - categoryinput
 - countryselect.tsx
 - usecoutries
-- npm i world-countries
-- npm i react-select
-- npm i leaflet
-- npm i @types/leaflet 
-- npm i next-cloudinary
-- npm i react-leaflet
-- npm i date-fns
+- npm i world-countries ✅ 
+- npm i react-select ✅
+- npm i leaflet ✅
+- npm i @types/leaflet  ✅
+- npm i next-cloudinary ✅
+- npm i react-leaflet ✅
+- npm i date-fns ✅
 - map.tsx
 - globals.css [leaflet classes]
 - counter.tsx
