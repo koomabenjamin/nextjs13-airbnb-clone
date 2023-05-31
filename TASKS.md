@@ -1,11 +1,11 @@
 ** 27th May 2023 **
 ** 2hrs section on tutorial from 5:25hrs - 7:11hr mark **
-- ListingCard.tsx
-- [listing]routes (deeper routes)
-- useFavorites.ts
-- HeartButton.ts
-- getListings.ts (action)
-- SafeListing (@types)
+- ListingCard.tsx ✅
+- [listing]routes (deeper routes) ✅
+- useFavorites.ts ✅
+- HeartButton.ts ✅
+- getListings.ts (action) ✅
+- SafeListing (@types) ✅
 - Listing components (app folder)
 - getListingById.ts (action)
 - page.tsx [app/listing]
@@ -14,8 +14,8 @@
 - ListingInfo.tsx
 - ListingCategory.tsx
 - ListingReservation.tsx
-- npm i react-date-range
-- npm i @types/react-date-range
+- npm i react-date-range ✅
+- npm i @types/react-date-range ✅
 - Calendar.tsx
 - globals.css
 - app/api/reservations/route [routes]
