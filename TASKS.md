@@ -1,5 +1,23 @@
 ** 27th May 2023 **
 ** 2hrs section on tutorial from 5:25hrs - 7:11hr mark **
+- Reservation [app/reservations, page.tsx, ReservationsClient.tsx]
+- UserMenu.tsx
+- Favorites [app/favorites => pages.tsx etc...]
+- getFavorites [actions]
+- FavoritesClient
+- properties [app/favorites => pages.tsx etc...]
+- useSearchModal.ts
+- Search.tsx
+- SearchModal.tsx
+- layouts.tsx
+- error.tsx
+- loading.tsx
+- Loader.tsx
+- npm i react-spinners
+- /middleware.ts
+
+** 27th May 2023 **
+** 2hrs section on tutorial from 5:25hrs - 7:11hr mark **
 - ListingCard.tsx ✅
 - [listing]routes (deeper routes) ✅
 - useFavorites.ts ✅
