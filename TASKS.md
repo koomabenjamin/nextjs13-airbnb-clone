@@ -6,23 +6,23 @@
 - HeartButton.ts ✅
 - getListings.ts (action) ✅
 - SafeListing (@types) ✅
-- Listing components (app folder)
-- getListingById.ts (action)
-- page.tsx [app/listing]
+- Listing components (app folder) ✅
+- getListingById.ts (action) ✅
+- page.tsx [app/listing] ✅
 - ListingClient.tsx
-- ListingHead.tsx
-- ListingInfo.tsx
-- ListingCategory.tsx
-- ListingReservation.tsx
+- ListingHead.tsx ✅
+- ListingInfo.tsx ✅
+- ListingCategory.tsx ✅
+- ListingReservation.tsx ✅
 - npm i react-date-range ✅
 - npm i @types/react-date-range ✅
-- Calendar.tsx
-- globals.css
-- app/api/reservations/route [routes]
-- getReservations.ts
-- SafeReservations.ts @types
-- app/trips
-- TripsClient.tsx
+- Calendar.tsx ✅
+- globals.css ✅
+- app/api/reservations/route [routes] ✅
+- getReservations.ts ✅
+- SafeReservations.ts @types ✅
+- app/trips ✅
+- TripsClient.tsx ✅
 
 ** 25th May 2023 **
 ** 2hrs section on tutorial from 2:58hrs - 5:23hr mark **
